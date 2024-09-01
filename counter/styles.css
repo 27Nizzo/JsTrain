@@ -1,0 +1,38 @@
+body {
+    background-color: #5F5449;
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#plus1, #plus10 {
+    background-color: #9b6a6c;
+}
+
+#plus2, #minus10 {
+    background-color: #B09398;
+}
+
+#reset {
+    background-color: #CEDFD9;
+}
+
+h1, h2{
+    color: #EBFCFB;
+    text-align: center;
+}
+
+button {
+    border-radius: 100px;
+    width: 80px;
+    height: 50px;
+    margin: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}

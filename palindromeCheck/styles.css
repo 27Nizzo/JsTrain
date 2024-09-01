@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color: #FFE6A7;
+    margin-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: #6F1D1B;
+    text-align: center;
+}
+
+h3 {
+    color: #FFE6A7;
+}
+
+input {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    background-color: #99582A;
+    border-radius: 30px;
+    width: 80px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: #0D1B2A;
+    margin-top: 200px;
+}
+
+h1 {
+    color: #415A77;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: #E0E1DD;
+    margin: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+button {
+    border-radius: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #778DA9;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+button:hover {
+    background-color: #415A77;
+    color: #E0E1DD;
+}
+

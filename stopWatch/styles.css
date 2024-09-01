@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    margin-top: 300px;
+    background-color: #52489C;
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #4062BB;
+}
+
+
+button {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 50px;
+    width: 80px;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+
+
+#startClock:hover {
+    background-color: #59C3C3;
+}
+
+#stopClock:hover {
+    background-color: #F45B69;
+
+}
+
+#resetClock:hover {
+    background-color: #dac8c8;
+
+}
+
+#plus10min:hover {
+    background-color: #59C3C3;
+}
+
+#break:hover {
+    background-color: #F45B69;
+}
